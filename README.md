@@ -16,7 +16,7 @@ This is an unchanged version of our semester long project we did for CIS 3760. T
 
 ### Project Wiki:
 
-This is the [Wiki](ubi.wiki/Home.md) imported from GitLab. It contains all of the documentation for the project.
+This is the [Wiki](ubi.wiki/Table-of-Contents/Home.md) imported from GitLab. It contains all of the documentation for the project.
 
 ### How to run the application:
 
