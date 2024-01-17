@@ -1,0 +1,5 @@
+- We decided upon [Commit Conventions](https://gitlab.socs.uoguelph.ca/3760W23/t1/graphex/ubi/-/wikis/Commit-Conventions) since we didn't have any for the last sprint
+- We also need to focus more on testing: try to get as close as possible to TDD when working on tasks this sprint. Focus on unit testing, since all we had last sprint was integration testing.
+- Do not merge unless you have tests written.
+- Stefan volunteered on doing code reviews for the front-end code.
+- Since contribution reports were nearly forgotten last sprint, we'll create them at the beginning of this sprint and they can be used as a running log that we can add to as we work.

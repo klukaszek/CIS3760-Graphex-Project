@@ -1,0 +1,13 @@
+- Change-based 
+- Occurs on merge-request
+- At least 1 person performs review
+- Any relevant communication should occur within the ticket for documentation purposes
+- Some questions to ask: 
+  - Is this code readable?
+  - Does the design of the code fit the existing code?
+  - Is it easy to understand?
+  - Have tests been written?
+  - Is it properly commented?
+  - See further possible questions: https://sengnotes.socs.uoguelph.ca/development:codereview
+- Reviewer leaves a comment/questions on the changes
+- The developer resolves all the comments

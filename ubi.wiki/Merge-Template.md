@@ -1,0 +1,6 @@
+- [ ] All merge requests have gone through the code review process
+- [ ] All issues have their own branch
+- [ ] Commits are not allowed to be squashed
+- [ ] The code passes all unit tests
+- [ ] The code passes the linter
+- [ ] If the new code is based on a previous issue, the link to the related issue is in the merge request

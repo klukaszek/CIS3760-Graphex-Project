@@ -1,0 +1,5 @@
+- Create wrapper for Reddit API
+- Create unit tests for Reddit API
+- Write content for the About page
+- Took notes for Sprint 4 review meeting
+- Create Documentation for Reddit wrapper class

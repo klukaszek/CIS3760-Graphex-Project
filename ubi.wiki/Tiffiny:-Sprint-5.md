@@ -1,0 +1,11 @@
+- Took the minutes for the [Sprint 5 Planning Meeting](https://gitlab.socs.uoguelph.ca/3760W23/t1/graphex/ubi/-/wikis/Sprint-5-Planning-Meeting)
+- Added the [Sprint 5 Template](https://gitlab.socs.uoguelph.ca/groups/3760W23/t1/graphex/-/wikis/home) to the Home page
+- Linked the contribution reports, the home page, sprint goal and team roles, planning meeting, and the scrum board to the template.
+- Created all the accessibility tasks as issues and linked them to our user stories for this sprint
+- Worked on [Issue 121:Add logo to the nav bar](https://gitlab.socs.uoguelph.ca/3760W23/t1/graphex/ubi/-/merge_requests/43)
+- Edited [Sprint 5 Template](https://gitlab.socs.uoguelph.ca/groups/3760W23/t1/graphex/-/wikis/home)<br>
+      - Linked evidence of code reviews that do more than just merge without discussion<br>
+      - Linked to descriptions of other user stories implemented <br>
+      - Linked to issues describing the two new user stories <br>
+      - Added instructions for viewing and interacting with user stories from staging server
+  

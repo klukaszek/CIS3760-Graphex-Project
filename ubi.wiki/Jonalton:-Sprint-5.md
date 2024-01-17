@@ -1,0 +1,3 @@
+- Add comments to show post component
+- Implement post object so that it can handle reddit posts and comments
+- Write script to run cron job

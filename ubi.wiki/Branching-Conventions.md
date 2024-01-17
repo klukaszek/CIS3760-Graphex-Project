@@ -1,0 +1,2 @@
+- Branches are created for issues
+- Naming convention: "iss#-issueName"
