@@ -1,5 +1,7 @@
 # Team Graphex CIS 3760 Project
 
+![Logo](Favicon.png)
+
 ## App: Social Media Sentiment Analysis
 
 ### Topic: Universal Basic Income
@@ -27,3 +29,13 @@ See: [Running The Three Container Docker App](ubi.wiki/Running-The-Three-Contain
 See: [Operating The Backend Docker Container](ubi.wiki/Operating-The-Backend-Docker-Container.md)
 
 
+### Project Images:
+
+![Home Page](Images/random%20post.png)
+![Home Page Loaded](Images/random%20post%20loaded.png)
+![All Tweets](Images/all%20tweets.png)
+![All Reddit Threads](Images/all%20reddit%20threads.png)
+
+Images missing:
+
+OpenAI message bot.
