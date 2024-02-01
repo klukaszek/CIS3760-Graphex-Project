@@ -22,7 +22,7 @@ This is the [Wiki](ubi.wiki/Table-of-Contents/Home.md) imported from GitLab. It 
 
 ### How to run the application:
 
-The application should be able to run locally using Docker, but I haven't tested it yet since for the final project we deployed it to the school server. If any issues are running it locally, it is most likely because I had to remove some secrets that did not belong to me.
+The application should be able to run locally using Docker, but I haven't tested it yet since for the final project we deployed it to the school server. If there are any issues running it locally, it is most likely because I had to remove some secrets that did not belong to me.
 
 See: [Running The Three Container Docker App](ubi.wiki/Running-The-Three-Container-Docker-App.md)
 
